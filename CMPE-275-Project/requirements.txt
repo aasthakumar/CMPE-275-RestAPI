@@ -1,0 +1,5 @@
+Flask
+requests
+cassandra-driver
+mmh3
+ConfigParser
